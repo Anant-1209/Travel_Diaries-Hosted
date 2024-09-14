@@ -43,10 +43,10 @@ export default function SignUp() {
         {/* left */}
         <div className='flex-1'>
           <Link to='/' className='font-bold dark:text-white text-4xl'>
-            <span className='px-2 py-1  text-blue-600'>
-              Travel
+          <span className='px-2 py-1  text-blue-600'>
+             Travel Blog
             </span>
-            Blog
+            
           </Link>
           <p className='text-sm mt-5'>
             You can sign up with your email and password
